@@ -1,5 +1,13 @@
 ## JP Minda Code, Examples and Scripts
 
+## About me
+Professor of Psychology at
+The University of Western Ontario
+* [Lab Page](http://minda.lab.com) 
+* [Personal Page](http://jpminda.com) 
+* [OSF] (https://osf.io/myprojects/)
+
+
 You can use the [editor on GitHub](https://github.com/jpminda/jpminda.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
