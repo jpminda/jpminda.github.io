@@ -1,4 +1,4 @@
-## JP Minda Code, Examples, and Scripts
+## Code, Examples, and Scripts
 
 ## About me
 Professor of Psychology at
