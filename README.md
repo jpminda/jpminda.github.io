@@ -9,8 +9,8 @@ The University of Western Ontario
 
 ## Current Projects
 ### R Challenge
-This is an ongoing list of short R execises that I'm working on with my graduade students for the summer. You can read the full R Notebook [here](jpminda.github.io/RChallenge_JPM.html), and the files are availble [here](https://github.com/jpminda/R_Examples). In progress...
+This is an ongoing list of short R exercises that I'm working on with my graduate students for the summer. You can read the full R Notebook [here](jpminda.github.io/RChallenge_JPM.html), and the files are available [here](https://github.com/jpminda/R_Examples). In progress...
 
 ### My Lab Manual 
-Updated twice a year. Ascess [here](https://osf.io/8b6kj/)
+Updated twice a year. Access [here](https://osf.io/8b6kj/)
 
