@@ -247,7 +247,7 @@ div.tocify {
 
 <h1 class="title toc-ignore">The Mindalab R Challenge</h1>
 <h4 class="author"><em>Paul Minda</em></h4>
-<h4 class="date"><em>25 July, 2018</em></h4>
+<h4 class="date"><em>26 July, 2018</em></h4>
 
 </div>
 
@@ -273,7 +273,7 @@ div.tocify {
 </div>
 <div id="challenge-3-july-19" class="section level2">
 <h2>Challenge 3 (July 19)</h2>
-<p>Check back soon for the results of Challenge 3</p>
+<p>Here’s the current challenge, if anyone wants to try. First, create a new data frame that takes the column with performance in each block (AZ-BC, or Block 1-4) and puts them into a single column called PERFORMANCE and then create a new column called “BLOCK” with 1,2,3,4 as values. This new frame will be four times taller, but does not need to include every variables, only the ones we’re using. Second, generate a line plot with errorbars (or points) that shows PERFORMANCE with BLOCK as X-Axis and different lines for Category. Decide on the best way to also show MONTH (same plot different line, or separate plots). Third, run a mixed factor ANOVA on PERFORMANCE with BLOCK as within-subjects and CATEGORY and MONTH and between.</p>
 </div>
 </div>
 <div id="initial-steps" class="section level1">
@@ -308,8 +308,8 @@ div.tocify {
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">dm&lt;-<span class="kw">subset</span>(FullData,Month<span class="op">!=</span><span class="st">&quot;05_May&quot;</span>)</code></pre></div>
 </div>
 </div>
-<div id="r-challenge-1---summary-and-data-viz" class="section level1">
-<h1>R Challenge 1 - Summary and Data Viz</h1>
+<div id="r-challenge-1-summary-and-visualization" class="section level1">
+<h1>R Challenge 1 Summary and Visualization</h1>
 <p>The first R challenge was about reading in the data, visualizing it, and creating a table of means. In this case, were going to be looking at the column of data that corresponds to total performance and averaging across category set. So the first analysis is an examination of total (<strong>Total</strong>) performance by <strong>Month</strong>.</p>
 <div id="category-set-by-month-table-method-1" class="section level2">
 <h2>Category Set By Month Table method 1</h2>
