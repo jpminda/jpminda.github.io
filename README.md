@@ -7,6 +7,8 @@ The University of Western Ontario
 * [Personal Page](http://jpminda.com) 
 * [OSF](https://osf.io/myprojects)
 
+## [Publications] 
+
 ## Current Projects
 ### [R Challenge](https://jpminda.github.io/TheRChallenge.html)
 This is an ongoing list of short R exercises that I'm working on with my graduate students for the summer. You can read the full R Notebook [here](https://jpminda.github.io/TheRChallenge.html), and the files are available [here](https://github.com/jpminda/R_Examples). In progress...
