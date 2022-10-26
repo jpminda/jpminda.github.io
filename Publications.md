@@ -1,4 +1,4 @@
-#Publications
+# Publications
 ## Books and Chapters
 Minda, J. P. (2021). How to Think: Understanding the Way We Decide, Remember and Make Sense of the World,  London, UK: Little, Brown Book Group, [LINK]
 Minda, J. P. (2020). The Psychology of Thinking: Reasoning, Decision-Making, and Problem-Solving Second Ed. London, UK: SAGE Publications, Ltd. [LINK]
