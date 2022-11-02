@@ -7,7 +7,7 @@ The University of Western Ontario
 * [Personal Page](http://jpminda.com) 
 * [OSF](https://osf.io/myprojects)
 
-## [Publications](Publications.html)
+## [Publications](Publications.md)
 
 ## Current Projects
 ### [R Challenge](https://jpminda.github.io/TheRChallenge.html)
